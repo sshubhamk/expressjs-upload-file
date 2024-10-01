@@ -1,6 +1,5 @@
 ## Prerequisites 
-Nodejs
-Git
+Nodejs and Git
 ## Cloning the Repository
 git clone https://github.com/sshubhamk/expressjs-upload-file/
 ## Setting Up the Backend
